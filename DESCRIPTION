@@ -1,0 +1,10 @@
+Package: fcdata2qc
+Title: FCiências.ID recovered data to C3S Quality Control 
+Version: 0.1.0
+Authors@R: person("Clara", "Ventura", email = "mcmventura@fc.ul.pt", role = c("aut", "cre"))
+Affiliation: FCiencias.ID - Sciences Association for Research and Development
+Description: Converts the Chilean data from 1950-1958 recovered by FCiências.ID to the standard format required by C3S-QC.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
