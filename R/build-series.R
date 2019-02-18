@@ -25,7 +25,7 @@ build_series <- function(station) {
   rh <- paste("rh", station, sep = "_")
   fol <- c(td, n, dd, w, p, ta, rr, tn, tx, rh)
   if (sum(dir.exists(fol)) == 0) {
-    cat("Wrong StatioName.\n\n")
+    cat("Wrong WIGOS compatible StationName.\n\n")
     return()
   }
   for (i in 1:length(fol)) {
