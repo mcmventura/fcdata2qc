@@ -1,2 +1,2 @@
 # fcdata2qc
-FCiências.ID recovered data to C3S Quality Control
+Converts the Chilean records recovered by FCiências.ID to the C3S Quality Control format
